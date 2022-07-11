@@ -1,6 +1,7 @@
 HELP.md
 .gradle
 build/
+.artifacts
 
 ### STS ###
 .apt_generated
