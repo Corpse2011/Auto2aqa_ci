@@ -1,4 +1,4 @@
-## Задача1: Project Sample [![Build status](https://ci.appveyor.com/api/projects/status/ygnnwtmca2wt06mf?svg=true)](https://ci.appveyor.com/project/Gabr12el/auto2aqa-code-t7kgb)
+## Задача1: Project Sample [![Build status]
 ## Домашнее задание к занятию «1.2. Тестирование API, CI»
 
 В качестве результата пришлите ссылку на ваш GitHub-проект в личном кабинете студента на сайте [netology.ru](https://netology.ru).
